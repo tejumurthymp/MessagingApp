@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WelcomeActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="188dp"
+        android:padding="20dp"
+        android:text="Welcome to TAK MessagingApp"
+        android:textColor="#27d127"
+        android:textSize="21sp"
+        android:textStyle="bold">
+    </TextView>
+
+    <ProgressBar
+        android:id="@+id/progressBar_id"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="301dp"
+        android:layout_height="64dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="231dp" />
+</RelativeLayout>

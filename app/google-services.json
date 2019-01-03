@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482829599591",
+    "firebase_url": "https://messagingapp-e2b0a.firebaseio.com",
+    "project_id": "messagingapp-e2b0a",
+    "storage_bucket": "messagingapp-e2b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482829599591:android:65beebe7fb1f3200",
+        "android_client_info": {
+          "package_name": "com.example.india.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482829599591-mj52sko0ch764219hd0quocm0shq5vev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.india.messagingapp",
+            "certificate_hash": "b707880898dd441ba6199b24f3515fc96fd5843c"
+          }
+        },
+        {
+          "client_id": "482829599591-c80fq4mdro5nq2hch55q4cj269g11so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEJA5afqXPF3q6OPn0350Baytzl6e8lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482829599591-c80fq4mdro5nq2hch55q4cj269g11so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
